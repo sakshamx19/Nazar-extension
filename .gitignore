@@ -18,3 +18,7 @@ desktop.ini
 .vscode/
 .idea/
 *.log
+
+# Tests and their Blinkit fixtures stay local (not published)
+nazar/tests/
+nazar/tools/fetch-fixtures.js

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Nazar: Health Score for Quick Commerce",
   "short_name": "Nazar",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Personal health score for food and an ingredient check for shampoo, soap and skincare on Blinkit, Zepto and Instamart. Runs fully in your browser. Unofficial.",
   "icons": {
     "16": "icons/icon16.png",

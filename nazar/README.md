@@ -90,8 +90,7 @@ src/adapters/            generic (label reader, JSON-LD), blinkit, zepto, instam
 src/ui/                  styles (shadow DOM CSS), render (badge, popover, panel)
 src/content.js           wires adapter + UI, SPA navigation, fetch queue
 popup/                   family + settings + export
-tests/run.js             core engine tests on real Blinkit fixtures (node tests/run.js)
-tools/fetch-fixtures.js  refresh Blinkit fixtures: node tools/fetch-fixtures.js <id> ...
+tools/capture-blinkit.js README screenshots on live Blinkit pages (headless Chrome + DevTools protocol)
 tools/make-icons.js      regenerate icons
 ```
 

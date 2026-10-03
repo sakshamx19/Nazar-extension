@@ -122,16 +122,27 @@
 
   // Merge sources, convert salt, drop impossible values and record warnings.
   function finalize(primary, secondary) {
-    const n = Object.assign({}, secondary || {}, primary || {});
     const warnings = [];
     if (primary && secondary) {
+      const conflicts = [];
+      let overlap = 0;
       for (const k of Object.keys(primary)) {
         const a = primary[k], b = secondary[k];
         if (b === undefined || a === undefined) continue;
+        overlap++;
         const diff = Math.abs(a - b) / Math.max(Math.abs(a), Math.abs(b), 1);
-        if (diff > 0.2) warnings.push(`${k}: listing says ${round(a)} and ${round(b)} in two places`);
+        if (diff > 0.2) conflicts.push(`${k}: listing says ${round(a)} and ${round(b)} in two places`);
+      }
+      // Most values disagree: the pack table is per serving without saying so.
+      // Mixing it in would pair per-serving calories with per-100 g protein, so drop it.
+      if (overlap >= 3 && conflicts.length / overlap >= 0.5) {
+        warnings.push('Pack nutrition table looks per serving; using the per-100 g fields only');
+        secondary = null;
+      } else {
+        warnings.push(...conflicts);
       }
     }
+    const n = Object.assign({}, secondary || {}, primary || {});
     if (n.sodium === undefined && n.salt !== undefined) n.sodium = n.salt * 400;
     delete n.salt;
 

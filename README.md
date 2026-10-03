@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="release/nazar-v0.2.0.zip"><b>⬇ Download v0.2.0 (zip, 50 KB)</b></a> ·
+  <a href="release/nazar-v0.2.1.zip"><b>⬇ Download v0.2.1 (zip, 50 KB)</b></a> ·
   <a href="#install-in-2-minutes">Install guide</a> ·
   <a href="#how-the-score-works">How the score works</a>
 </p>
@@ -23,8 +23,8 @@
 Browse your usual quick-commerce site. Nazar adds a small score badge to every product
 card and a detailed panel on product pages.
 
-![Score badges on product cards](docs/screenshots/cards.png)
-<sub>Demo page using real listing data. On the real site, badges sit on the product cards the same way.</sub>
+![Nazar badges on a Blinkit search for "protein chips"](docs/screenshots/blinkit-search.png)
+<sub>Blinkit search for "protein chips". Each badge is the score for the selected member ("Me": Gym profile). ⚑ marks a pack claim that doesn't match the label.</sub>
 
 ### One score per family member
 
@@ -37,7 +37,8 @@ eight. The same packet of chips gets a different score for each of them, side by
 
 ### Packaged food: why the score is what it is
 
-![Food panel with claim check and score breakdown](docs/screenshots/panel-food.png)
+![Nazar panel on a Blinkit product page](docs/screenshots/blinkit-panel-food.png)
+<sub>Product page, viewed for Papa (Diabetes). The panel docks on the left so Blinkit's Add to cart stays clear.</sub>
 
 - **Why this score?** Every point is shown: "Sodium −22, Fibre +16, Calories −14"
 - **Claim check** catches packs that oversell:
@@ -51,7 +52,10 @@ eight. The same packet of chips gets a different score for each of them, side by
 
 ### Shampoo, soap, creams: is it right for *this* person?
 
-![Personal care panel with suitability check](docs/screenshots/panel-care.png)
+![Nazar badges on Blinkit face creams](docs/screenshots/blinkit-care-listing.png)
+<sub>Face creams on Blinkit, scored for "Me" (sensitive skin). Fragranced leave-on creams drop to "Use with care"; fragrance-free barrier creams are a "Great fit". Listings without an ingredient list get no badge.</sub>
+
+![Nazar personal care panel on a Blinkit product page](docs/screenshots/blinkit-panel-care.png)
 
 - Flags **harsh sulfates** (SLS / SLES), **fragrance** and **fragrance allergens**,
   **steroids in fairness creams**, **formaldehyde releasers**, **pore-clogging oils**
@@ -78,7 +82,7 @@ eight. The same packet of chips gets a different score for each of them, side by
 
 **1. Download the zip**
 
-Click **[release/nazar-v0.2.0.zip](release/nazar-v0.2.0.zip)**, then the **Download raw
+Click **[release/nazar-v0.2.1.zip](release/nazar-v0.2.1.zip)**, then the **Download raw
 file** (⬇) button at the top right of the GitHub page.
 
 **2. Unzip it into a folder you'll keep**
@@ -188,11 +192,11 @@ Full rules: [nazar/README.md](nazar/README.md) and [nazar/src/core/](nazar/src/c
 
 ## For developers
 
-Code, architecture and tests are in **[nazar/](nazar/)**: see [nazar/README.md](nazar/README.md).
+Code and architecture are in **[nazar/](nazar/)**: see [nazar/README.md](nazar/README.md).
 
 ```bash
-node nazar/tests/run.js                 # engine tests on real listing fixtures
-node nazar/tools/make-screenshots.js    # regenerate the screenshots above
+node nazar/tools/capture-blinkit.js     # re-capture the screenshots above on live Blinkit pages
+node nazar/tools/make-icons.js          # regenerate the icons
 ```
 
 ---
