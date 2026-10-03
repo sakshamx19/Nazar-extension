@@ -1,7 +1,10 @@
-# Track only the extension. Everything else in ProjectOG stays local.
+# Track only the extension, its docs and the release zip. Everything else in ProjectOG stays local.
 /*
 !/.gitignore
+!/README.md
 !/nazar/
+!/docs/
+!/release/
 
 # Inside nazar: no installs, build output or OS / editor clutter
 nazar/node_modules/
