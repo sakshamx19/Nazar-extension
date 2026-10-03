@@ -194,11 +194,6 @@ Full rules: [nazar/README.md](nazar/README.md) and [nazar/src/core/](nazar/src/c
 
 Code and architecture are in **[nazar/](nazar/)**: see [nazar/README.md](nazar/README.md).
 
-```bash
-node nazar/tools/capture-blinkit.js     # re-capture the screenshots above on live Blinkit pages
-node nazar/tools/make-icons.js          # regenerate the icons
-```
-
 ---
 
 <sub>Scores are based on the data in each listing, which can differ from the actual pack.
