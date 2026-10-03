@@ -1,0 +1,17 @@
+# Track only the extension. Everything else in ProjectOG stays local.
+/*
+!/.gitignore
+!/nazar/
+
+# Inside nazar: no installs, build output or OS / editor clutter
+nazar/node_modules/
+nazar/dist/
+nazar/*.zip
+nazar/*.crx
+nazar/*.pem
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log

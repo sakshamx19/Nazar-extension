@@ -1,0 +1,2155 @@
+{
+ "product_name": "Harvest Gold White Bread",
+ "is_unicorn": false,
+ "inventory": 11,
+ "price": 35,
+ "additional_charges": 0,
+ "mrp": 35,
+ "images": [
+  "https://cdn.grofers.com/da/cms-assets/cms/product/72778694-98ad-4921-990b-499604bd369f.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/51d23f47-d963-41a0-aac7-c2e7abe63c38.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/9ce856af-87d5-430d-bdc8-a0bd2e734c45.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/baf70427-cc53-4a47-a7bf-646e5bf20a4e.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/5e10f532-a2b7-4fda-84e9-f1f13630fd54.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/c5ec6fa7-65bb-4d6b-b571-1fd17806ee62.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/1f6a2b08-cf96-4968-b07c-709a135ce9b2.jpg"
+ ],
+ "categories": {
+  "L0Cat": {
+   "ID": 14,
+   "Name": "",
+   "Properties": null
+  },
+  "L1Cat": {
+   "ID": 953,
+   "Name": "",
+   "Properties": null
+  },
+  "L2Cat": {
+   "ID": 31,
+   "Name": "",
+   "Properties": null
+  }
+ },
+ "brand": "Harvest Gold",
+ "id": 23779,
+ "attributes": [
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Description",
+   "attribute_name": "Description",
+   "url": null,
+   "value": "Kick start your day with Harvest Gold Bread. A small loaf of soft bread enriched with goodness of wheat and a characteristic aroma of brick-oven bakeries. Pave your way towards a healthy life with a hearty breakfast.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Kick start your day with Harvest Gold Bread. A small loaf of soft bread enriched with goodness of wheat and a characteristic aroma of brick-oven bakeries. Pave your way towards a healthy life with a hearty breakfast.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 75,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Key Features",
+   "attribute_name": "Key Features",
+   "url": null,
+   "value": "Small loaf.\nWith goodness of wheat.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Small loaf.\nWith goodness of wheat.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 76,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Ingredients",
+   "attribute_name": "Ingredients",
+   "url": null,
+   "value": "Refined Wheat Flour (Maida), Sugar, Yeast, Iodized Salt, Gluten, Preservatives (282, 200), Soya Flour, Edible Vegetable Oil (Refined Soybean Oil, Refined Palmolein Oil), Emulsifiers (481 (i), 472e), Acidity Regulators (270, 297), Stabilizer (41 5), Flour Treatment Agents (1104 & 11 00), Antioxidant (300)",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Refined Wheat Flour (Maida), Sugar, Yeast, Iodized Salt, Gluten, Preservatives (282, 200), Soya Flour, Edible Vegetable Oil (Refined Soybean Oil, Refined Palmolein Oil), Emulsifiers (481 (i), 472e), Acidity Regulators (270, 297), Stabilizer (41 5), Flour Treatment Agents (1104 & 11 00), Antioxidant (300)",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 77,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit",
+   "attribute_name": "Unit (with options)",
+   "url": null,
+   "value": "350 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "350 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "350",
+       "type": "",
+       "value_info": [],
+       "id": 2871,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 11539,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 2872,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 80,
+   "value_type": "delimited_list",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Protein Per 100 g",
+   "attribute_name": "Protein",
+   "url": null,
+   "value": "8 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "8 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "8",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 126,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Information",
+   "attribute_name": "Nutrition Information",
+   "url": null,
+   "value": "(Per 100 g)\nEnergy: 247.5 kcal\nProtein: 8.0 g\nCarbohydrate: 52.2 g\nAdded Sugar: 3.2 g\nDietary Fibre: 3.0 g\nFat: 0.72 g\nSaturated Fat: 0.18 g\nMonounsaturated Fat: 0.17 g\nPolyunsaturated Fat: 0.35 g\nTrans Fat: 0 g\nCholesterol: Not Detected\nSodium: 492 mg",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "(Per 100 g)\nEnergy: 247.5 kcal\nProtein: 8.0 g\nCarbohydrate: 52.2 g\nAdded Sugar: 3.2 g\nDietary Fibre: 3.0 g\nFat: 0.72 g\nSaturated Fat: 0.18 g\nMonounsaturated Fat: 0.17 g\nPolyunsaturated Fat: 0.35 g\nTrans Fat: 0 g\nCholesterol: Not Detected\nSodium: 492 mg",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 134,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Total Carbohydrates Per 100 g",
+   "attribute_name": "Total Carbohydrates",
+   "url": null,
+   "value": "52 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "52 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "52",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 135,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Added Sugar Per 100 g",
+   "attribute_name": "Added Sugar",
+   "url": null,
+   "value": "3.2 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "3.2 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "3.2",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 138,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Total Fat Per 100 g",
+   "attribute_name": "Total Fat",
+   "url": null,
+   "value": "0.7 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0.72 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0.72",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 139,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Saturated Fat Per 100 g",
+   "attribute_name": "Saturated Fat",
+   "url": null,
+   "value": "0.2 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0.18 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0.18",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 140,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Trans Fat Per 100 g",
+   "attribute_name": "Trans Fat",
+   "url": null,
+   "value": "0 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 141,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Monosaturated Fat Per 100 g (g)",
+   "attribute_name": "Monosaturated Fat",
+   "url": null,
+   "value": "0.2 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0.17 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 143,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Polyunsaturated Fat Per 100 g",
+   "attribute_name": "Polyunsaturated Fat",
+   "url": null,
+   "value": "0.3 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0.35 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0.35",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 144,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unsaturated Fat Per 100 g",
+   "attribute_name": "Unsaturated Fat",
+   "url": null,
+   "value": "0.5 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0.52 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0.52",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 146,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Sodium Per 100 g",
+   "attribute_name": "Sodium",
+   "url": null,
+   "value": "492",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "492",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 147,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Cholesterol Per 100 g",
+   "attribute_name": "Cholesterol",
+   "url": null,
+   "value": "0 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 153,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Monounsaturated Fat Per 100 g",
+   "attribute_name": "Monounsaturated Fat",
+   "url": null,
+   "value": "0.2 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0.17 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "0.17",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 230,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Shelf Life",
+   "attribute_name": "Shelf Life",
+   "url": null,
+   "value": "5 days",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "5 days",
+     "child_attributes": null,
+     "display_values": {
+      "pdp": "5 days",
+      "plp": "5 days Shelf Life"
+     }
+    }
+   ],
+   "id": 242,
+   "value_type": "text",
+   "range": null,
+   "display_values": {
+    "pdp": "5 days",
+    "plp": "5 days Shelf Life"
+   }
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Disclaimer",
+   "attribute_name": "Disclaimer",
+   "url": null,
+   "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 245,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packaging Type",
+   "attribute_name": "Product Physical Packaging Type",
+   "url": null,
+   "value": "Pack",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 31322,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Pack",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 308,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Length (cm)",
+   "attribute_name": "Packed Product Length (cm)",
+   "url": null,
+   "value": "13.8",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "13.8",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 588,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Breadth (cm)",
+   "attribute_name": "Packed Product Width (cm)",
+   "url": null,
+   "value": "12.2",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "12.2",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 589,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Height (cm)",
+   "attribute_name": "Packed Product Height (cm)",
+   "url": null,
+   "value": "16.4",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "16.4",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 590,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Manufacturer's Name and Address",
+   "attribute_name": "Manufacturer Details",
+   "url": null,
+   "value": "Ready Roti India Pvt. Ltd., RZ-167(1), A-Block, Road No.4, Mahipalpur Extension, Delhi-110037",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Ready Roti India Pvt. Ltd., RZ-167(1), A-Block, Road No.4, Mahipalpur Extension, Delhi-110037",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 632,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Marketer’s Name and Address",
+   "attribute_name": "Marketed By",
+   "url": null,
+   "value": "Ready Roti India Pvt. Ltd., RZ-167(1), A-Block, Road No.4, Mahipalpur Extension, Delhi-110037",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Ready Roti India Pvt. Ltd., RZ-167(1), A-Block, Road No.4, Mahipalpur Extension, Delhi-110037",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 634,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Weight (g)",
+   "attribute_name": "_weight",
+   "url": null,
+   "value": "362.0",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "362.0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 638,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Country of Origin",
+   "attribute_name": "Country of Origin",
+   "url": null,
+   "value": "India",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 12957,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "India",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 641,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "FSSAI License",
+   "attribute_name": "FSSAI License",
+   "url": null,
+   "value": "10013013000537",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "10013013000537",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 642,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Customer Care Details",
+   "attribute_name": "Customer Care Details",
+   "url": null,
+   "value": "Email: info@blinkit.com",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Email: info@blinkit.com",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 644,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Energy Per 100 g",
+   "attribute_name": "Energy",
+   "url": null,
+   "value": "248 kcal",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "247.5 kcal",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "247.5",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "kcal",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69062,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16348,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 748,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gift wrappable item",
+   "attribute_name": "Gift wrappable item",
+   "url": null,
+   "value": "True",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "True",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 1306,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Diet Preference",
+   "attribute_name": "Diet Preference",
+   "url": null,
+   "value": "Cholesterol Free",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 28493,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Cholesterol Free",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2038,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Net Weight",
+   "attribute_name": "Net Weight (Without Packaging)",
+   "url": null,
+   "value": "350 g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "350 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2073,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gross Weight",
+   "attribute_name": "Gross Weight (With Packaging)",
+   "url": null,
+   "value": "362.0 g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "362.0 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2074,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Food Type",
+   "attribute_name": "food_type",
+   "url": null,
+   "value": "veg",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 49967,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "veg",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2474,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit Value",
+   "attribute_name": "UnitValue",
+   "url": null,
+   "value": "350",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "350",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2871,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit Type",
+   "attribute_name": "UnitType",
+   "url": null,
+   "value": "g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11539,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2872,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return",
+   "attribute_name": "Return Type - SLP",
+   "url": null,
+   "value": "Non-returnable",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 11655,
+     "value_detail": "",
+     "value_asset_url": "http://cdn.grofers.com/layout-engine/v2/blinkit-studio/2025-12/no_return_replacement_pdp_service_1/no_return_replacement_pdp_service_1_light.png",
+     "value": "Non-returnable",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3089,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "IGST",
+   "attribute_name": "IGST",
+   "url": null,
+   "value": "0",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27734,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3551,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "SGST",
+   "attribute_name": "SGST",
+   "url": null,
+   "value": "0",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27727,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3552,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "CGST",
+   "attribute_name": "CGST",
+   "url": null,
+   "value": "0",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27720,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3553,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Serve Size",
+   "attribute_name": "Standard Serve Size",
+   "url": null,
+   "value": "50 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "50 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "50",
+       "type": "",
+       "value_info": [],
+       "id": 15912,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 69056,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 16346,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 3699,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "HSN Code",
+   "attribute_name": "HSN Code",
+   "url": null,
+   "value": "19051000",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "19051000",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3800,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Inner Case",
+   "attribute_name": "Inner Case",
+   "url": null,
+   "value": "1",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "1",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3801,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Outer Case",
+   "attribute_name": "Outer Case",
+   "url": null,
+   "value": "15",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "15",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3802,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "lbhw_update_source",
+   "attribute_name": "lbhw_update_source",
+   "url": null,
+   "value": "profiler",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 33074,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "profiler",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 7057,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_ptr",
+   "attribute_name": "is_ptr",
+   "url": null,
+   "value": "False",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "False",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 7569,
+   "value_type": "boolean",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Shelf Life (In days)",
+   "attribute_name": "Shelf Life (In days)",
+   "url": null,
+   "value": "5",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "5",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9051,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Outward Guidelines",
+   "attribute_name": "Outward Guidelines",
+   "url": null,
+   "value": "2",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "2",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9090,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Dietary Fiber Per 100 g",
+   "attribute_name": "Dietary Fiber",
+   "url": null,
+   "value": "3",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "3",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9191,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Tax Reform Version",
+   "attribute_name": "tax_reform_version",
+   "url": null,
+   "value": "2017-07-01",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55079,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "2017-07-01",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11761,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "CGST (2025)",
+   "attribute_name": "CGST_2025",
+   "url": null,
+   "value": "0",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55148,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11763,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "SGST (2025)",
+   "attribute_name": "SGST_2025",
+   "url": null,
+   "value": "0",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55143,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11764,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "IGST (2025)",
+   "attribute_name": "IGST_2025",
+   "url": null,
+   "value": "0",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55138,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11765,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Base UoM (without Multiplier)",
+   "attribute_name": "Base UoM (without Multiplier)",
+   "url": null,
+   "value": "350 g",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "350 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 12210,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Jaivik Bharat Certification",
+   "attribute_name": "Jaivik Bharat Certification",
+   "url": null,
+   "value": "No",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 71084,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "No",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 16850,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Engagement Score",
+   "attribute_name": "product_engagement_score",
+   "url": null,
+   "value": "9.7387",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9.7387",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 16916,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_return_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 3482,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_exchange_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 3483,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_replacement_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "True",
+   "type": "",
+   "value_info": [],
+   "id": 4546,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_easy_return_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 5804,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "refund_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "True",
+   "type": "",
+   "value_info": [],
+   "id": 5805,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return Service Promise Header",
+   "attribute_name": "",
+   "url": null,
+   "value": "72 hours only replacement",
+   "type": "",
+   "value_info": [],
+   "id": 11298,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "return_eligibility_days",
+   "attribute_name": "",
+   "url": null,
+   "value": "3",
+   "type": "",
+   "value_info": [],
+   "id": 3484,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return Policy",
+   "attribute_name": "",
+   "url": null,
+   "value": "Only replacement of the item is permitted, within 72 hours of purchase, if it is found to be of poor quality, damaged or incorrect. If the item is incorrect, please ensure that it is sealed, unused, and in original condition.",
+   "type": "",
+   "value_info": [],
+   "id": 667,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "return_policy_pdp_image",
+   "attribute_name": "",
+   "url": null,
+   "value": "https://cdn.grofers.com/layout-engine/v2/blinkit-studio/2025-12/replacement_service_pdp_service_1/replacement_service_pdp_service_1_light.png",
+   "type": "",
+   "value_info": [],
+   "id": 5807,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "easy_return_pdp_image",
+   "attribute_name": "",
+   "url": null,
+   "value": "",
+   "type": "",
+   "value_info": [],
+   "id": 5806,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Owner Name",
+   "attribute_name": "",
+   "url": null,
+   "value": "",
+   "type": "",
+   "value_info": [],
+   "id": 14759,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "hazardous",
+   "attribute_name": "",
+   "url": null,
+   "value": "NON HAZARDOUS",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 47745,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9231,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "spill prone",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 47747,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9302,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "fragile",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 48992,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9472,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "temperature-type",
+   "attribute_name": "",
+   "url": null,
+   "value": "ROOM_TEMPERATURE",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 48996,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9473,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_fnv",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 49944,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9674,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Sensitive",
+   "attribute_name": "",
+   "url": null,
+   "value": "False",
+   "type": "",
+   "value_info": [],
+   "id": 18374,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Comparison Basis",
+   "attribute_name": "",
+   "url": null,
+   "value": "per 100 g",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 78020,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 18375,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  }
+ ]
+}

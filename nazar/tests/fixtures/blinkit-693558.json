@@ -1,0 +1,1615 @@
+{
+ "product_name": "Pilgrim Korean Rice Water Hydra Glow Moisturizing Cream",
+ "is_unicorn": false,
+ "inventory": 2,
+ "price": 240,
+ "additional_charges": 0,
+ "mrp": 299,
+ "images": [
+  "https://cdn.grofers.com/da/cms-assets/cms/product/5a0e1784-491a-4f67-b225-90083e5585a9.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/20f4c7f0-9451-4212-9eda-ac5851bf264e.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/ac8816de-af50-4b14-9f9c-78478d16b1c6.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/51fafa68-df90-414a-b9a4-cd91c37f09f3.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/ecb909e4-94b1-405d-8529-7b776e47484a.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/95e23ce9-9b14-4e12-8855-0483773145fc.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/c9c65471-b4e9-465e-9f1a-7167a28d07c2.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/2dfc6960-90fd-48e6-90a1-147c5f062ff0.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/e9cb08ce-d7e4-4503-8d9e-8b820da9bd4e.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/2ecfcefe-f56e-4216-a95a-a5714f3fc2cd.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/7fd8aefe-81e6-4b08-8559-be5cf1b54c12.jpg"
+ ],
+ "categories": {
+  "L0Cat": {
+   "ID": 163,
+   "Name": "",
+   "Properties": null
+  },
+  "L1Cat": {
+   "ID": 690,
+   "Name": "",
+   "Properties": null
+  },
+  "L2Cat": {
+   "ID": 164,
+   "Name": "",
+   "Properties": null
+  }
+ },
+ "brand": "Pilgrim",
+ "id": 693558,
+ "attributes": [
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Description",
+   "attribute_name": "Description",
+   "url": null,
+   "value": "Reveal your glass skin glow with the Hydra Glow Moisturizer. It helps you achieve an an instant glass-like skin and deep hydration. It also strengthens the skin barrier and fades dark spots, leaving your skin healthy and hydrated in any season.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Reveal your glass skin glow with the Hydra Glow Moisturizer. It helps you achieve an an instant glass-like skin and deep hydration. It also strengthens the skin barrier and fades dark spots, leaving your skin healthy and hydrated in any season.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 75,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Ingredients",
+   "attribute_name": "Ingredients",
+   "url": null,
+   "value": "Aqua (Water), Niacinamide, Caprylic / Capric Triglyceride, Propanediol, Pentylene Glycol, Morus Alba (Mulberry) Extract, Oryza Sativa (Rice) Water Extract, Laminaria Digitata Extract, Tocopheryl Acetate, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Phenoxyethanol, Xylitylglucoside, Anhydroxylitol, Sodium Hyaluronate, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate-13, Xylitol, Ethylhexylglycerin, Polysorbate 20, Sorbitan Isostearate, Cetyl-PG Hydroxyethyl Palmitamide, Cholesterol, 1,2-Hexanediol, Hydrogenated Lecithin, Sodium Benzoate, Potassium Sorbate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Gluconate, Sodium Hydroxide, Perfume, C.I. 16185, C.I. 15985.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Aqua (Water), Niacinamide, Caprylic / Capric Triglyceride, Propanediol, Pentylene Glycol, Morus Alba (Mulberry) Extract, Oryza Sativa (Rice) Water Extract, Laminaria Digitata Extract, Tocopheryl Acetate, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Phenoxyethanol, Xylitylglucoside, Anhydroxylitol, Sodium Hyaluronate, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate-13, Xylitol, Ethylhexylglycerin, Polysorbate 20, Sorbitan Isostearate, Cetyl-PG Hydroxyethyl Palmitamide, Cholesterol, 1,2-Hexanediol, Hydrogenated Lecithin, Sodium Benzoate, Potassium Sorbate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Gluconate, Sodium Hydroxide, Perfume, C.I. 16185, C.I. 15985.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 77,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit",
+   "attribute_name": "Unit (with options)",
+   "url": null,
+   "value": "50 g",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "50 g",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "50",
+       "type": "",
+       "value_info": [],
+       "id": 2871,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "g",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 11539,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 2872,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 80,
+   "value_type": "delimited_list",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "How to Use",
+   "attribute_name": "How to Use",
+   "url": null,
+   "value": "Apply a desired amount of moisturizer on cleansed face and neck. Massage gently until fully absorbed. Follow up with a broad-spectrum SPF for all-day protection.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Apply a desired amount of moisturizer on cleansed face and neck. Massage gently until fully absorbed. Follow up with a broad-spectrum SPF for all-day protection.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 103,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gender",
+   "attribute_name": "Gender",
+   "url": null,
+   "value": "Unisex",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 10966,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Unisex",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 109,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Shelf Life",
+   "attribute_name": "Shelf Life",
+   "url": null,
+   "value": "36 months",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "36 months",
+     "child_attributes": null,
+     "display_values": {
+      "pdp": "36 months",
+      "plp": "36 months Shelf Life"
+     }
+    }
+   ],
+   "id": 242,
+   "value_type": "text",
+   "range": null,
+   "display_values": {
+    "pdp": "36 months",
+    "plp": "36 months Shelf Life"
+   }
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Storage Tips",
+   "attribute_name": "Storage Tips",
+   "url": null,
+   "value": "Store in a cool & dry place",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Store in a cool & dry place",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 243,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packaging Type",
+   "attribute_name": "Product Physical Packaging Type",
+   "url": null,
+   "value": "Tub",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 31331,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Tub",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 308,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Length (cm)",
+   "attribute_name": "Packed Product Length (cm)",
+   "url": null,
+   "value": "7.5",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "7.5",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 588,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Breadth (cm)",
+   "attribute_name": "Packed Product Width (cm)",
+   "url": null,
+   "value": "7.5",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "7.5",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 589,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Height (cm)",
+   "attribute_name": "Packed Product Height (cm)",
+   "url": null,
+   "value": "4.9",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "4.9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 590,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Manufacturer's Name and Address",
+   "attribute_name": "Manufacturer Details",
+   "url": null,
+   "value": "Naturis Cosmetics Pvt. Ltd, 1-EPIP, SIDCO Industrial Complex, Bari Brahmana, Jammu (J&K), India - 181133",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Naturis Cosmetics Pvt. Ltd, 1-EPIP, SIDCO Industrial Complex, Bari Brahmana, Jammu (J&K), India - 181133",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 632,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Marketer’s Name and Address",
+   "attribute_name": "Marketed By",
+   "url": null,
+   "value": "Heavenly Secrts Pvt. Ltd., 74 Technopark, MIDC, Andheri (E), Mumbai, India - 400093",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Heavenly Secrts Pvt. Ltd., 74 Technopark, MIDC, Andheri (E), Mumbai, India - 400093",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 634,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Weight (g)",
+   "attribute_name": "_weight",
+   "url": null,
+   "value": "94.0",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "94.0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 638,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Country of Origin",
+   "attribute_name": "Country of Origin",
+   "url": null,
+   "value": "India",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 12957,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "India",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 641,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Preferences",
+   "attribute_name": "Preferences",
+   "url": null,
+   "value": "Vegan",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11389,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Vegan",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 751,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Skin Type",
+   "attribute_name": "Skin Type",
+   "url": null,
+   "value": "All Skin Types",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 14117,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "All Skin Types",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 752,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Concern",
+   "attribute_name": "Concern",
+   "url": null,
+   "value": "Dry skin",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11026,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Dry skin",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 753,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Key Ingredients",
+   "attribute_name": "Key Ingredients",
+   "url": null,
+   "value": "5 Hyaluronic Acids & 3% Niacinamide",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "5 Hyaluronic Acids & 3% Niacinamide",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 754,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Formulation",
+   "attribute_name": "Formulation",
+   "url": null,
+   "value": "Gel, Cream",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11088,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Gel",
+     "child_attributes": null,
+     "display_values": null
+    },
+    {
+     "value_id": 11084,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Cream",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 756,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Finish",
+   "attribute_name": "Finish",
+   "url": null,
+   "value": "Creme",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11150,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Creme",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 758,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gift wrappable item",
+   "attribute_name": "Gift wrappable item",
+   "url": null,
+   "value": "True",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "True",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 1306,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Net Weight",
+   "attribute_name": "Net Weight (Without Packaging)",
+   "url": null,
+   "value": "50 g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "50 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2073,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gross Weight",
+   "attribute_name": "Gross Weight (With Packaging)",
+   "url": null,
+   "value": "94.0 g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "94.0 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2074,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "AssetsEdgeToEdge",
+   "attribute_name": "AssetsEdgeToEdge",
+   "url": null,
+   "value": "true",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "true",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2187,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Food Type",
+   "attribute_name": "food_type",
+   "url": null,
+   "value": "non_food",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 49969,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "non_food",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2474,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit Value",
+   "attribute_name": "UnitValue",
+   "url": null,
+   "value": "50",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "50",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2871,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit Type",
+   "attribute_name": "UnitType",
+   "url": null,
+   "value": "g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11539,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2872,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "IGST",
+   "attribute_name": "IGST",
+   "url": null,
+   "value": "18",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27736,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "18",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3551,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "SGST",
+   "attribute_name": "SGST",
+   "url": null,
+   "value": "9",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27729,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3552,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "CGST",
+   "attribute_name": "CGST",
+   "url": null,
+   "value": "9",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27722,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3553,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "NewRegime",
+   "attribute_name": "NewRegime",
+   "url": null,
+   "value": "FALSE",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "FALSE",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3569,
+   "value_type": "boolean",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "HSN Code",
+   "attribute_name": "HSN Code",
+   "url": null,
+   "value": "33049910",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "33049910",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3800,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Inner Case",
+   "attribute_name": "Inner Case",
+   "url": null,
+   "value": "12",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "12",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3801,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Outer Case",
+   "attribute_name": "Outer Case",
+   "url": null,
+   "value": "6",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "6",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3802,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Reference Links",
+   "attribute_name": "Product Reference Links",
+   "url": null,
+   "value": "https://www.amazon.in/Pilgrim-Moisturizer-Hyaluronic-Niacinamide-Lightweight/dp/B0F6NSQHKZ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.l4cgaZT_kWxOBgoSFcDggkaKun42rPtUdaIQJZoTtUSw7UHXLcs1YkgYxkDEHMV3.wXbpxr8_y_T2apTHGvh0cty7J5_ZNCIvKa6ssD9GVTE&dib_tag=se&keywords=hydra%2Bglow%2Bmoisturizer&qid=1752840484&s=merchant-items&sr=1-1&th=1",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "https://www.amazon.in/Pilgrim-Moisturizer-Hyaluronic-Niacinamide-Lightweight/dp/B0F6NSQHKZ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.l4cgaZT_kWxOBgoSFcDggkaKun42rPtUdaIQJZoTtUSw7UHXLcs1YkgYxkDEHMV3.wXbpxr8_y_T2apTHGvh0cty7J5_ZNCIvKa6ssD9GVTE&dib_tag=se&keywords=hydra%2Bglow%2Bmoisturizer&qid=1752840484&s=merchant-items&sr=1-1&th=1",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 4711,
+   "value_type": "list_of_urls",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Search Tags",
+   "attribute_name": "Search Tags",
+   "url": null,
+   "value": "pilgrim face moisturizer, acne face moisturizer, anti acne face moisturizer, face moisturizer, face moisturizer acne, face moisturizer cream, oil free face moisturizer",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "pilgrim face moisturizer, acne face moisturizer, anti acne face moisturizer, face moisturizer, face moisturizer acne, face moisturizer cream, oil free face moisturizer",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 4712,
+   "value_type": "list_of_strings",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Hero Ingredient",
+   "attribute_name": "Hero Ingredient",
+   "url": null,
+   "value": "Hyaluronic Acid",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 31648,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Hyaluronic Acid",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 6402,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "lbhw_update_source",
+   "attribute_name": "lbhw_update_source",
+   "url": null,
+   "value": "profiler",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 33074,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "profiler",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 7057,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_ptr",
+   "attribute_name": "is_ptr",
+   "url": null,
+   "value": "false",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "false",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 7569,
+   "value_type": "boolean",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Shelf Life (In days)",
+   "attribute_name": "Shelf Life (In days)",
+   "url": null,
+   "value": "1095",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "1095",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9051,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Variant",
+   "attribute_name": "Variant",
+   "url": null,
+   "value": "Korean Rice Water Hydra Glow",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Korean Rice Water Hydra Glow",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9227,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Tax Reform Version",
+   "attribute_name": "tax_reform_version",
+   "url": null,
+   "value": "2017-07-01",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55079,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "2017-07-01",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11761,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "CGST (2025)",
+   "attribute_name": "CGST_2025",
+   "url": null,
+   "value": "9",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55151,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11763,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "SGST (2025)",
+   "attribute_name": "SGST_2025",
+   "url": null,
+   "value": "9",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55146,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11764,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "IGST (2025)",
+   "attribute_name": "IGST_2025",
+   "url": null,
+   "value": "18",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55141,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "18",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11765,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Base UoM (without Multiplier)",
+   "attribute_name": "Base UoM (without Multiplier)",
+   "url": null,
+   "value": "50 g",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "50 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 12210,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Taxed on",
+   "attribute_name": "taxed_on",
+   "url": null,
+   "value": "SP",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 63964,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "SP",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 14930,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "BIS Compliance Mandatory",
+   "attribute_name": "bis_compliance_mandatory",
+   "url": null,
+   "value": "No",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 65755,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "No",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 15405,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Engagement Score",
+   "attribute_name": "product_engagement_score",
+   "url": null,
+   "value": "10.092",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "10.092",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 16916,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Serviceability Tags",
+   "attribute_name": "serviceability_tags",
+   "url": null,
+   "value": "dist_bucket_2",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "dist_bucket_2",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 18043,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_return_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 3482,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_exchange_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 3483,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_replacement_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "True",
+   "type": "",
+   "value_info": [],
+   "id": 4546,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_easy_return_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 5804,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "refund_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "True",
+   "type": "",
+   "value_info": [],
+   "id": 5805,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return Service Promise Header",
+   "attribute_name": "",
+   "url": null,
+   "value": "72 hours only replacement",
+   "type": "",
+   "value_info": [],
+   "id": 11298,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "return_eligibility_days",
+   "attribute_name": "",
+   "url": null,
+   "value": "3",
+   "type": "",
+   "value_info": [],
+   "id": 3484,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return Policy",
+   "attribute_name": "",
+   "url": null,
+   "value": "Only replacement of the item is permitted, within 72 hours of purchase, if it is found to be physically damaged, defective or incorrect. The item must be unused and in original condition.",
+   "type": "",
+   "value_info": [],
+   "id": 667,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "return_policy_pdp_image",
+   "attribute_name": "",
+   "url": null,
+   "value": "https://cdn.grofers.com/layout-engine/v2/blinkit-studio/2025-12/replacement_service_pdp_service_1/replacement_service_pdp_service_1_light.png",
+   "type": "",
+   "value_info": [],
+   "id": 5807,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "easy_return_pdp_image",
+   "attribute_name": "",
+   "url": null,
+   "value": "",
+   "type": "",
+   "value_info": [],
+   "id": 5806,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Owner Name",
+   "attribute_name": "",
+   "url": null,
+   "value": "PRODUCT",
+   "type": "",
+   "value_info": [],
+   "id": 14759,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "hazardous",
+   "attribute_name": "",
+   "url": null,
+   "value": "NON HAZARDOUS",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 47745,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9231,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "spill prone",
+   "attribute_name": "",
+   "url": null,
+   "value": "YES",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 47746,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9302,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "fragile",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 48992,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9472,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "temperature-type",
+   "attribute_name": "",
+   "url": null,
+   "value": "ROOM_TEMPERATURE",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 48996,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9473,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_fnv",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 49944,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9674,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Sensitive",
+   "attribute_name": "",
+   "url": null,
+   "value": "False",
+   "type": "",
+   "value_info": [],
+   "id": 18374,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Comparison Basis",
+   "attribute_name": "",
+   "url": null,
+   "value": "per 100 g",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 78020,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 18375,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "mrp",
+   "attribute_name": "",
+   "url": null,
+   "value": "275.0",
+   "type": "",
+   "value_info": [],
+   "id": 7568,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "retail_return_policy",
+   "attribute_name": "",
+   "url": null,
+   "value": "",
+   "type": "",
+   "value_info": [],
+   "id": 9235,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Manufacturer ID",
+   "attribute_name": "",
+   "url": null,
+   "value": "3008",
+   "type": "",
+   "value_info": [],
+   "id": 10430,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  }
+ ]
+}

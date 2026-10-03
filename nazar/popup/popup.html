@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nazar</title>
+<style>
+  :root { --ink: #10231c; --mut: #5b6b64; --line: #e5ece8; --soft: #f4f7f5; --acc: #fbbf24; --teal: #0f766e; }
+  * { box-sizing: border-box; }
+  body { margin: 0; width: 380px; font: 13px/1.4 "Inter", "Segoe UI", system-ui, sans-serif; color: var(--ink); background: #fff; }
+  body.page { width: auto; max-width: 540px; margin: 32px auto; border: 1px solid var(--line); border-radius: 18px; overflow: hidden; }
+  header { background: var(--ink); color: #fff; padding: 14px 16px; }
+  .brand { font-weight: 800; font-size: 18px; } .brand b { color: var(--acc); }
+  header p { margin: 4px 0 0; font-size: 12px; opacity: .8; }
+  .welcome { display: none; background: #fffbeb; border-bottom: 1px solid #fde68a; padding: 10px 16px; font-size: 12px; }
+  body.page .welcome { display: block; }
+  section { padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  h3 { margin: 0 0 8px; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--mut); }
+  .member { border: 1px solid var(--line); border-radius: 12px; padding: 8px; margin-bottom: 8px; }
+  .member.on { border-color: var(--ink); background: var(--soft); }
+  .line { display: grid; gap: 6px; align-items: center; }
+  .line.top { grid-template-columns: auto 1fr 1.2fr auto; }
+  .line.care { grid-template-columns: 1fr 1fr auto; margin-top: 6px; }
+  input[type=text], select { width: 100%; padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; font: inherit; font-size: 12px; background: #fff; color: var(--ink); }
+  input[type=radio], input[type=checkbox] { accent-color: var(--ink); }
+  .preg { font-size: 11px; color: var(--mut); white-space: nowrap; display: flex; align-items: center; gap: 3px; }
+  .x { border: 0; background: none; color: var(--mut); cursor: pointer; font-size: 18px; line-height: 1; padding: 0 4px; }
+  .x:disabled { opacity: .3; cursor: default; }
+  button.btn { border: 1px solid var(--line); background: var(--soft); color: var(--ink); border-radius: 10px; padding: 7px 10px; font: inherit; font-weight: 600; cursor: pointer; }
+  button.btn:hover { border-color: var(--ink); }
+  button.btn:disabled { opacity: .5; cursor: default; }
+  .row { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; }
+  .hint { font-size: 11px; color: var(--mut); margin-top: 6px; }
+  .stats { display: flex; gap: 8px; }
+  .stat { flex: 1; background: var(--soft); border-radius: 10px; padding: 8px; text-align: center; }
+  .stat b { display: block; font-size: 16px; }
+  .stat span { font-size: 10px; color: var(--mut); }
+  .actions { display: flex; gap: 8px; margin-top: 8px; }
+  footer { padding: 10px 16px 14px; font-size: 10px; color: var(--mut); }
+  .sites { display: flex; gap: 6px; flex-wrap: wrap; }
+  .site { font-size: 11px; padding: 3px 8px; border-radius: 999px; background: var(--soft); }
+</style>
+</head>
+<body>
+  <header>
+    <div class="brand">na<b>z</b>ar</div>
+    <p>A health score for food and an ingredient check for personal care, tuned to each person in your home.</p>
+  </header>
+  <div class="welcome">To get started, add your family members and pick each person's food goal, skin type and hair type. Then browse Blinkit, Zepto or Instamart.</div>
+
+  <section>
+    <h3>Family</h3>
+    <div id="members"></div>
+    <button class="btn" id="add">+ Add member</button>
+    <div class="hint">The selected (●) member is shown on product cards. Product pages show everyone at once. Food uses the goal; shampoo, soap and creams use skin and hair type.</div>
+  </section>
+
+  <section>
+    <h3>Settings</h3>
+    <label class="row"><span>Score badge on product cards</span><input type="checkbox" id="showBadges"></label>
+    <label class="row"><span>Panel on product pages</span><input type="checkbox" id="showPanel"></label>
+    <label class="row"><span>Debug logs (console)</span><input type="checkbox" id="debug"></label>
+  </section>
+
+  <section>
+    <h3>Your data (stays in this browser)</h3>
+    <div class="stats" id="stats"></div>
+    <div class="actions">
+      <button class="btn" id="export">Export JSON</button>
+      <button class="btn" id="clear">Clear cache</button>
+    </div>
+  </section>
+
+  <section>
+    <h3>Works on</h3>
+    <div class="sites"><span class="site">Blinkit</span><span class="site">Zepto</span><span class="site">Instamart (beta)</span></div>
+  </section>
+
+  <footer>Scores use the listing's data, which can differ from the pack. Not medical advice. Unofficial and not affiliated with any platform. No data leaves your browser.</footer>
+
+  <script src="../src/core/util.js"></script>
+  <script src="../src/core/profiles.js"></script>
+  <script src="../src/core/care.js"></script>
+  <script src="../src/core/store.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,1518 @@
+{
+ "product_name": "Naturali Onion & Bhringraj Hairfall Shampoo",
+ "is_unicorn": false,
+ "inventory": 1,
+ "price": 447,
+ "additional_charges": 0,
+ "mrp": 549,
+ "images": [
+  "https://cdn.grofers.com/da/cms-assets/cms/product/8daa6ec2-b745-42f8-97f3-bc831e695cb7.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/6297a01c-53f7-4706-8088-a7024cbc0f7e.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/01155fb3-33b9-4ac3-89f5-82c7bf42a0e2.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/96ef5223-7760-4c0c-8fa3-6b04d9edd3fc.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/d2c3862f-e32c-407a-bbfd-3a4c47ab335a.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/36d4cd43-51c6-4c3a-aaed-e5777767f3e2.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product_videos_thumbnails/e468cd7a-3f2a-4c97-aefb-ea477cc9815e.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-582.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-583.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-584.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-585.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-586.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-587.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-588.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-589.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-590.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-591.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-592.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-593.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-594.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-595.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-596.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-597.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772169697746-598.jpg",
+  "https://cdn.grofers.com/da/cms-assets/cms/product_videos_thumbnails/cd517baf-69f9-47d7-9b06-de0903381bb6.jpg"
+ ],
+ "categories": {
+  "L0Cat": {
+   "ID": 163,
+   "Name": "",
+   "Properties": null
+  },
+  "L1Cat": {
+   "ID": 691,
+   "Name": "",
+   "Properties": null
+  },
+  "L2Cat": {
+   "ID": 268,
+   "Name": "",
+   "Properties": null
+  }
+ },
+ "brand": "Naturali",
+ "id": 577100,
+ "attributes": [
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Description",
+   "attribute_name": "Description",
+   "url": null,
+   "value": "Treat your hair to a superfood deep cleanse with the Hair Fall Arrest Shampoo. Infused with Red Onion and Bringraj, it boosts scalp health to reduce hair fall. It strengthens hair from the roots and prevents breakage.",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Treat your hair to a superfood deep cleanse with the Hair Fall Arrest Shampoo. Infused with Red Onion and Bringraj, it boosts scalp health to reduce hair fall. It strengthens hair from the roots and prevents breakage.",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 75,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Key Features",
+   "attribute_name": "Key Features",
+   "url": null,
+   "value": "Reduces Up to 97% Hairfall\nCombats follicular damage that leads to hair fall\nBoosts blood circulation in the scalp, promoting hair growth\nProvides rich & luxurious ⁠lather\nFree from Sulphates and Parabens",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Reduces Up to 97% Hairfall\nCombats follicular damage that leads to hair fall\nBoosts blood circulation in the scalp, promoting hair growth\nProvides rich & luxurious ⁠lather\nFree from Sulphates and Parabens",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 76,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit",
+   "attribute_name": "Unit (with options)",
+   "url": null,
+   "value": "370 ml",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "370 ml",
+     "child_attributes": [
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "370",
+       "type": "",
+       "value_info": [],
+       "id": 2871,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      },
+      {
+       "details": "",
+       "help_text": "",
+       "name": "",
+       "attribute_name": "",
+       "url": null,
+       "value": "ml",
+       "type": "",
+       "value_info": [
+        {
+         "value_id": 11538,
+         "value_detail": "",
+         "value_asset_url": "",
+         "value": "",
+         "child_attributes": null,
+         "display_values": null
+        }
+       ],
+       "id": 2872,
+       "value_type": "",
+       "range": null,
+       "display_values": null
+      }
+     ],
+     "display_values": null
+    }
+   ],
+   "id": 80,
+   "value_type": "delimited_list",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gender",
+   "attribute_name": "Gender",
+   "url": null,
+   "value": "Unisex",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 10966,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Unisex",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 109,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Shelf Life",
+   "attribute_name": "Shelf Life",
+   "url": null,
+   "value": "24 months",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "24 months",
+     "child_attributes": null,
+     "display_values": {
+      "pdp": "24 months",
+      "plp": "24 months Shelf Life"
+     }
+    }
+   ],
+   "id": 242,
+   "value_type": "text",
+   "range": null,
+   "display_values": {
+    "pdp": "24 months",
+    "plp": "24 months Shelf Life"
+   }
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Disclaimer",
+   "attribute_name": "Disclaimer",
+   "url": null,
+   "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 245,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packaging Type",
+   "attribute_name": "Product Physical Packaging Type",
+   "url": null,
+   "value": "Bottle",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 31329,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Bottle",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 308,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Length (cm)",
+   "attribute_name": "Packed Product Length (cm)",
+   "url": null,
+   "value": "4",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "4",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 588,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Breadth (cm)",
+   "attribute_name": "Packed Product Width (cm)",
+   "url": null,
+   "value": "7",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "7",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 589,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Packed Product Height (cm)",
+   "attribute_name": "Packed Product Height (cm)",
+   "url": null,
+   "value": "22.3",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "22.3",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 590,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Manufacturer's Name and Address",
+   "attribute_name": "Manufacturer Details",
+   "url": null,
+   "value": "Ginni Filaments Ltd\nPlot no 98, Sector 05 IIE, Integrated Industrial Estate, SIDCUL Distt- Haridwar, Uttarakhand 249403",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Ginni Filaments Ltd\nPlot no 98, Sector 05 IIE, Integrated Industrial Estate, SIDCUL Distt- Haridwar, Uttarakhand 249403",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 632,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Marketer’s Name and Address",
+   "attribute_name": "Marketed By",
+   "url": null,
+   "value": "Guiltfree Industries Ltd. \nDuncan House 1st Floor, 31 Netaji Subhas Road, Kolkata - 700001",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Guiltfree Industries Ltd. \nDuncan House 1st Floor, 31 Netaji Subhas Road, Kolkata - 700001",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 634,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Weight (g)",
+   "attribute_name": "_weight",
+   "url": null,
+   "value": "438.0",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "438.0",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 638,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Country of Origin",
+   "attribute_name": "Country of Origin",
+   "url": null,
+   "value": "India",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 12957,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "India",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 641,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Customer Care Details",
+   "attribute_name": "Customer Care Details",
+   "url": null,
+   "value": "Email: info@blinkit.com",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Email: info@blinkit.com",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 644,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Benefits and Uses",
+   "attribute_name": "Benefits",
+   "url": null,
+   "value": "Hair Fall Control",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27103,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Hair Fall Control",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 720,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Preferences",
+   "attribute_name": "Preferences",
+   "url": null,
+   "value": "Sulfate-Free, Paraben-Free",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11383,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Sulfate-Free",
+     "child_attributes": null,
+     "display_values": null
+    },
+    {
+     "value_id": 11371,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Paraben-Free",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 751,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Concern",
+   "attribute_name": "Concern",
+   "url": null,
+   "value": "Hair Fall",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27443,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Hair Fall",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 753,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Key Ingredients",
+   "attribute_name": "Key Ingredients",
+   "url": null,
+   "value": "Red Onion, Bhringraj",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Red Onion, Bhringraj",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 754,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Hair Type",
+   "attribute_name": "Hair Type",
+   "url": null,
+   "value": "All Hair Types",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27206,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "All Hair Types",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 767,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gift wrappable item",
+   "attribute_name": "Gift wrappable item",
+   "url": null,
+   "value": "True",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "True",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 1306,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Net Weight",
+   "attribute_name": "Net Weight (Without Packaging)",
+   "url": null,
+   "value": "370 g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "370 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2073,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Gross Weight",
+   "attribute_name": "Gross Weight (With Packaging)",
+   "url": null,
+   "value": "438 g",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "438 g",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2074,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "AssetsEdgeToEdge",
+   "attribute_name": "AssetsEdgeToEdge",
+   "url": null,
+   "value": "true",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "true",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2187,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Food Type",
+   "attribute_name": "food_type",
+   "url": null,
+   "value": "non_food",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 49969,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "non_food",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2474,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit Value",
+   "attribute_name": "UnitValue",
+   "url": null,
+   "value": "370",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "370",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2871,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Unit Type",
+   "attribute_name": "UnitType",
+   "url": null,
+   "value": "ml",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 11538,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "ml",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 2872,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "IGST",
+   "attribute_name": "IGST",
+   "url": null,
+   "value": "18",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27736,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "18",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3551,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "SGST",
+   "attribute_name": "SGST",
+   "url": null,
+   "value": "9",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27729,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3552,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "CGST",
+   "attribute_name": "CGST",
+   "url": null,
+   "value": "9",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 27722,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "9",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3553,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "NewRegime",
+   "attribute_name": "NewRegime",
+   "url": null,
+   "value": "FALSE",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "FALSE",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3569,
+   "value_type": "boolean",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "HSN Code",
+   "attribute_name": "HSN Code",
+   "url": null,
+   "value": "33051090",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "33051090",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3800,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Inner Case",
+   "attribute_name": "Inner Case",
+   "url": null,
+   "value": "1",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "1",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3801,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Outer Case",
+   "attribute_name": "Outer Case",
+   "url": null,
+   "value": "24",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "24",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 3802,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Hero Ingredient",
+   "attribute_name": "Hero Ingredient",
+   "url": null,
+   "value": "Red Onion",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 31713,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Red Onion",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 6402,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "lbhw_update_source",
+   "attribute_name": "lbhw_update_source",
+   "url": null,
+   "value": "profiler",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 33074,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "profiler",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 7057,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_ptr",
+   "attribute_name": "is_ptr",
+   "url": null,
+   "value": "False",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "False",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 7569,
+   "value_type": "boolean",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Shelf Life (In days)",
+   "attribute_name": "Shelf Life (In days)",
+   "url": null,
+   "value": "730",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "730",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9051,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Variant",
+   "attribute_name": "Variant",
+   "url": null,
+   "value": "Onion & Bhringraj Hairfall",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Onion & Bhringraj Hairfall",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9227,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Tax Reform Version",
+   "attribute_name": "tax_reform_version",
+   "url": null,
+   "value": "2017-07-01",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55079,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "2017-07-01",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11761,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "CGST (2025)",
+   "attribute_name": "CGST_2025",
+   "url": null,
+   "value": "2.5",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55150,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "2.5",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11763,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "SGST (2025)",
+   "attribute_name": "SGST_2025",
+   "url": null,
+   "value": "2.5",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55145,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "2.5",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11764,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "IGST (2025)",
+   "attribute_name": "IGST_2025",
+   "url": null,
+   "value": "5",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 55140,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "5",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 11765,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Base UoM (without Multiplier)",
+   "attribute_name": "Base UoM (without Multiplier)",
+   "url": null,
+   "value": "370 ml",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "370 ml",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 12210,
+   "value_type": "text",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Paraben Free",
+   "attribute_name": "Paraben free",
+   "url": null,
+   "value": "Yes",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 63016,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Yes",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 14620,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Sulphate Free",
+   "attribute_name": "Sulphate free",
+   "url": null,
+   "value": "Yes",
+   "type": "not_shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 63019,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Yes",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 14623,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Hero Concern",
+   "attribute_name": "Hero Concern",
+   "url": null,
+   "value": "Hair Fall",
+   "type": "shown_to_customer",
+   "value_info": [
+    {
+     "value_id": 63871,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "Hair Fall",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 14897,
+   "value_type": "enum",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Engagement Score",
+   "attribute_name": "product_engagement_score",
+   "url": null,
+   "value": "4.4484",
+   "type": "internal",
+   "value_info": [
+    {
+     "value_id": 0,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "4.4484",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 16916,
+   "value_type": "number",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_return_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 3482,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_exchange_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 3483,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_replacement_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "True",
+   "type": "",
+   "value_info": [],
+   "id": 4546,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_easy_return_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "false",
+   "type": "",
+   "value_info": [],
+   "id": 5804,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "refund_eligible",
+   "attribute_name": "",
+   "url": null,
+   "value": "True",
+   "type": "",
+   "value_info": [],
+   "id": 5805,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return Service Promise Header",
+   "attribute_name": "",
+   "url": null,
+   "value": "72 hours only replacement",
+   "type": "",
+   "value_info": [],
+   "id": 11298,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "return_eligibility_days",
+   "attribute_name": "",
+   "url": null,
+   "value": "3",
+   "type": "",
+   "value_info": [],
+   "id": 3484,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Return Policy",
+   "attribute_name": "",
+   "url": null,
+   "value": "Only replacement of the item is permitted, within 72 hours of purchase, if it is found to be physically damaged, defective or incorrect. The item must be unused and in original condition.",
+   "type": "",
+   "value_info": [],
+   "id": 667,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "return_policy_pdp_image",
+   "attribute_name": "",
+   "url": null,
+   "value": "https://cdn.grofers.com/layout-engine/v2/blinkit-studio/2025-12/replacement_service_pdp_service_1/replacement_service_pdp_service_1_light.png",
+   "type": "",
+   "value_info": [],
+   "id": 5807,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "easy_return_pdp_image",
+   "attribute_name": "",
+   "url": null,
+   "value": "",
+   "type": "",
+   "value_info": [],
+   "id": 5806,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Product Owner Name",
+   "attribute_name": "",
+   "url": null,
+   "value": "PRODUCT",
+   "type": "",
+   "value_info": [],
+   "id": 14759,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "hazardous",
+   "attribute_name": "",
+   "url": null,
+   "value": "NON HAZARDOUS",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 47745,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9231,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "spill prone",
+   "attribute_name": "",
+   "url": null,
+   "value": "YES",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 47746,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9302,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "fragile",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 48992,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9472,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "temperature-type",
+   "attribute_name": "",
+   "url": null,
+   "value": "ROOM_TEMPERATURE",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 48996,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9473,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "is_fnv",
+   "attribute_name": "",
+   "url": null,
+   "value": "NO",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 49944,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 9674,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Sensitive",
+   "attribute_name": "",
+   "url": null,
+   "value": "False",
+   "type": "",
+   "value_info": [],
+   "id": 18374,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  },
+  {
+   "details": "",
+   "help_text": "",
+   "name": "Nutrition Comparison Basis",
+   "attribute_name": "",
+   "url": null,
+   "value": "per 100 g",
+   "type": "",
+   "value_info": [
+    {
+     "value_id": 78020,
+     "value_detail": "",
+     "value_asset_url": "",
+     "value": "",
+     "child_attributes": null,
+     "display_values": null
+    }
+   ],
+   "id": 18375,
+   "value_type": "",
+   "range": null,
+   "display_values": null
+  }
+ ]
+}
